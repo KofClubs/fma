@@ -9,5 +9,6 @@ __pycache__/
 .env
 .python-version
 
+*.csv
 .DS_Store
 .vscode/
